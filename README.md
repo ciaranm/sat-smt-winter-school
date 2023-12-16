@@ -15,8 +15,9 @@ from 1. For example, for this graph:
 4 5
 ```
 
-there are five vertices, and the largest clique has three vertices 3, 4, 5.
+there are five vertices, and the largest clique has three vertices 3, 4, 5 (or,
+if you prefer, 2, 3, 4).
 
-The random-5-*.graph instances should be a good starting point, and then
-random-10-*.graph, and so on. The remaining instances are selected from the
+The `random-5-*.graph` instances should be a good starting point, and then
+`random-10-*.graph`, and so on. The remaining instances are selected from the
 DIMACS benchmark suite.
