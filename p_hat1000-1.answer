@@ -1,0 +1,9 @@
+hostname = LAPTOP-MABU19S0
+commandline = ../glasgow-subgraph-solver/build/glasgow_clique_solver --format edges p_hat1000-1.graph
+started_at = 2023-12-17 03:45:57
+file = p_hat1000-1.graph
+status = true
+nodes = 175949
+omega = 10
+clique = 20 64 152 155 638 669 705 745 839 872
+runtime = 197

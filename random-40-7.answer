@@ -1,0 +1,9 @@
+hostname = LAPTOP-MABU19S0
+commandline = ../glasgow-subgraph-solver/build/glasgow_clique_solver --format edges random-40-7.graph
+started_at = 2023-12-17 03:46:06
+file = random-40-7.graph
+status = true
+nodes = 35
+omega = 10
+clique = 7 8 9 10 12 14 21 24 26 32
+runtime = 0

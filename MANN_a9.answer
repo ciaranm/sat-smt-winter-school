@@ -1,0 +1,9 @@
+hostname = LAPTOP-MABU19S0
+commandline = ../glasgow-subgraph-solver/build/glasgow_clique_solver --format edges MANN_a9.graph
+started_at = 2023-12-17 03:45:57
+file = MANN_a9.graph
+status = true
+nodes = 71
+omega = 16
+clique = 1 2 5 6 8 9 12 13 16 23 27 29 33 37 40 45
+runtime = 0

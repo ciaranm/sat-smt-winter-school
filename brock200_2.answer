@@ -1,0 +1,9 @@
+hostname = LAPTOP-MABU19S0
+commandline = ../glasgow-subgraph-solver/build/glasgow_clique_solver --format edges brock200_2.graph
+started_at = 2023-12-17 03:45:51
+file = brock200_2.graph
+status = true
+nodes = 3757
+omega = 12
+clique = 27 48 55 70 105 120 121 135 145 149 158 183
+runtime = 6

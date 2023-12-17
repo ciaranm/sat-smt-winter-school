@@ -1,0 +1,9 @@
+hostname = LAPTOP-MABU19S0
+commandline = ../glasgow-subgraph-solver/build/glasgow_clique_solver --format edges johnson8-2-4.graph
+started_at = 2023-12-17 03:45:56
+file = johnson8-2-4.graph
+status = true
+nodes = 24
+omega = 4
+clique = 1 15 19 24
+runtime = 0

@@ -1,0 +1,9 @@
+hostname = LAPTOP-MABU19S0
+commandline = ../glasgow-subgraph-solver/build/glasgow_clique_solver --format edges DSJC500_5.graph
+started_at = 2023-12-17 03:45:51
+file = DSJC500_5.graph
+status = true
+nodes = 1137049
+omega = 13
+clique = 42 69 119 322 331 336 363 387 402 405 436 445 486
+runtime = 851

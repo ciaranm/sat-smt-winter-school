@@ -1,0 +1,9 @@
+hostname = LAPTOP-MABU19S0
+commandline = ../glasgow-subgraph-solver/build/glasgow_clique_solver --format edges sanr200_0.7.graph
+started_at = 2023-12-17 03:46:23
+file = sanr200_0.7.graph
+status = true
+nodes = 146112
+omega = 18
+clique = 34 35 39 41 42 55 96 102 104 105 107 109 110 124 158 162 176 184
+runtime = 170

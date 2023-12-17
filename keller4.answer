@@ -1,0 +1,9 @@
+hostname = LAPTOP-MABU19S0
+commandline = ../glasgow-subgraph-solver/build/glasgow_clique_solver --format edges keller4.graph
+started_at = 2023-12-17 03:45:56
+file = keller4.graph
+status = true
+nodes = 13542
+omega = 11
+clique = 6 9 47 67 71 90 100 119 160 165 168
+runtime = 20

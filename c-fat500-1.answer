@@ -1,0 +1,9 @@
+hostname = LAPTOP-MABU19S0
+commandline = ../glasgow-subgraph-solver/build/glasgow_clique_solver --format edges c-fat500-1.graph
+started_at = 2023-12-17 03:45:51
+file = c-fat500-1.graph
+status = true
+nodes = 9
+omega = 14
+clique = 1 2 81 82 161 162 241 242 321 322 401 402 481 482
+runtime = 0

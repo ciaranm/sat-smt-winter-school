@@ -1,0 +1,9 @@
+hostname = LAPTOP-MABU19S0
+commandline = ../glasgow-subgraph-solver/build/glasgow_clique_solver --format edges hamming6-2.graph
+started_at = 2023-12-17 03:45:56
+file = hamming6-2.graph
+status = true
+nodes = 17
+omega = 32
+clique = 1 4 6 7 10 11 13 16 18 19 21 24 25 28 30 31 34 35 37 40 41 44 46 47 49 52 54 55 58 59 61 64
+runtime = 0
